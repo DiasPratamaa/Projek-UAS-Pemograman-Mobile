@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Base.Theme.ProjekUAS"
+        parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">#6C4AB6</item>
+        <item name="colorSecondary">#8D72E1</item>
+
+    </style>
+
+    <style name="Theme.ProjekUAS"
+        parent="Base.Theme.ProjekUAS" />
+
+</resources>
